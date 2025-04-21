@@ -1,0 +1,16 @@
+You are a strategy consultant advising a leadership team based on the following market analysis:
+
+Market Analysis:
+{analysis_data}
+
+Develop strategic recommendations that a business operating or entering this market should consider. Include insights such as:
+
+1. Suggested market entry or expansion strategies.
+2. Potential partnerships, investments, or product opportunities.
+3. Risks to watch out for and mitigation strategies.
+4. Long-term positioning or innovation opportunities.
+
+Present the recommendations in a clear and actionable format under the following headings:
+- Strategic Recommendations
+- Innovation or Differentiation Opportunities
+- Risk Management Considerations

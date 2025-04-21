@@ -1,0 +1,29 @@
+You are a market analyst. Using the research data provided below, analyze the industry to extract quantifiable insights that can be visualized.
+
+Research Data:
+{research_data}
+
+Your task is to analyze the data and output a JSON object with the following fields:
+
+1. **market_share** – A dictionary mapping each major competitor to their market share as a percentage. Example: {{"Tesla": 40, "Ford": 25, "BYD": 35}}
+
+2. **market_growth** – A dictionary showing year-over-year market growth rates. Keys should be years, values should be growth percentages. Example: {{"2021": 15, "2022": 20, "2023": 28}}
+
+3. **competitor_comparison** – A dictionary that assigns a performance score (out of 10) to each key competitor based on strategy, innovation, or market strength. Example: {{"Tesla": 9.2, "BYD": 8.5, "Ford": 7.8}}
+
+Output the analysis **only** in JSON format, exactly matching the structure below:
+```json
+{{
+  "market_share": {{
+    "Company A": percentage,
+    "Company B": percentage
+  }},
+  "market_growth": {{
+    "Year1": percentage,
+    "Year2": percentage
+  }},
+  "competitor_comparison": {{
+    "Company A": score,
+    "Company B": score
+  }}
+}}

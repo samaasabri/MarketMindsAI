@@ -1,0 +1,17 @@
+You are a market analyst. Using the research data below, analyze the industry to identify major trends, key competitive dynamics, and emerging opportunities or threats.
+
+Research Data:
+{research_data}
+
+Perform the following analysis:
+
+1. Identify the major trends shaping the market.
+2. Compare the strengths, weaknesses, and strategies of the key competitors.
+3. Highlight any significant changes, threats, or opportunities emerging from the market environment.
+4. Summarize notable gaps or unmet needs that could be strategic entry points.
+
+Structure the output in the following format:
+- Market Trends
+- Competitor Analysis
+- Opportunities & Threats
+- Market Gaps or Unmet Needs
