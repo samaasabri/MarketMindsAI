@@ -1,5 +1,5 @@
 
-# 📘 Industry Intelligence Generator
+# 📘MarketMindsAI (Industry Intelligence Generator)
 
 A Streamlit app that autonomously researches, analyzes, and generates strategic reports for a given market or industry using LangChain and Mistral AI.
 
