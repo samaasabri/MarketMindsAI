@@ -32,7 +32,7 @@ A Streamlit app that autonomously researches, analyzes, and generates strategic 
    ```bash
    pip install -r requirements.txt
    ```
-3. Create a `.env` file in the root directory and **add your Mistral API key**:
+3. For local trail in the `.env` file in the root directory and **add your Mistral API key**:
    ```env
    MISTRAL_API_KEY=your_api_key_here
    ```
