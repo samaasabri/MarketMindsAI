@@ -49,9 +49,10 @@ A Streamlit app that autonomously researches, analyzes, and generates strategic 
 
 ![image](https://github.com/user-attachments/assets/474b3b93-a05a-4845-a9f7-d430a9e371e0)
 
-### 🎬 Demo Video
+## 📽️ Demo Video
 
-👉 [Click here to watch the video]([https://drive.google.com/file/d/123456789/view](https://drive.google.com/file/d/1j1cesUHqNxY_QeN53o1XHT1iZUcxxQ8b/view?usp=sharing))
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1j1cesUHqNxY_QeN53o1XHT1iZUcxxQ8b/view?usp=sharing)
+
 
 ## 🚀 Live App
 
