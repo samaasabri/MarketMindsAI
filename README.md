@@ -55,7 +55,7 @@ A Streamlit app that autonomously researches, analyzes, and generates strategic 
 
 ## 🚀 Live App
 
-Check out the live app here 👉 [Launch Streamlit App](https://your-streamlit-cloud-url.streamlit.app)
+Check out the live app here 👉 [Launch Streamlit App](https://marketmindsai.streamlit.app/)
 
 
 ---
